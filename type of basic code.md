@@ -1,5 +1,5 @@
 # codesteste
-testing basic cods
+testing basic code
 #include <stdio.h>
 
 int main()
